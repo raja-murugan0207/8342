@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite" parallel="methods" thread-count="1">
+	<test name="SampleRequest" group-by-instances="true">
+		<classes>
+ 			<class name="com.bsc.qa.stt.test_factory.Bsc834TestFactory"/>
+		</classes>
+	</test> 
+</suite>

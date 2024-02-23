@@ -1,0 +1,19 @@
+<ffpojo-mappings xmlns="http://www.ffpojo.org/ofm"> 
+
+	
+    <ffpojo class="com.bsc.qa.facets.ffp.pojo.BscaCare1stMMFlatFile.BscaCare1stMMFlatFileBody">
+	<positional>
+		   <positional-field name="HICN" initial-position="1" final-position="12" decorator-class="com.github.ffpojo.metadata.DefaultFieldDecorator"/>
+            <positional-field name="FIRST_NAME" initial-position="25" final-position="31" decorator-class="com.github.ffpojo.metadata.DefaultFieldDecorator"/>
+			<positional-field name="LAST_NAME" initial-position="13" final-position="24" decorator-class="com.github.ffpojo.metadata.DefaultFieldDecorator"/>
+			<positional-field name="MID_INIT" initial-position="32" final-position="32" decorator-class="com.github.ffpojo.metadata.DefaultFieldDecorator"/>
+			<positional-field name="TRANS_RPLY_CD" initial-position="57" final-position="59" decorator-class="com.github.ffpojo.metadata.DefaultFieldDecorator"/>
+			<positional-field name="TRANS_TYP_CD" initial-position="60" final-position="61" decorator-class="com.github.ffpojo.metadata.DefaultFieldDecorator"/>
+			<positional-field name="TERM_DATE" initial-position="85" final-position="92" decorator-class="com.github.ffpojo.metadata.DefaultFieldDecorator"/>
+			
+			
+			
+	</positional>
+	</ffpojo>
+	
+ </ffpojo-mappings>
